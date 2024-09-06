@@ -48,6 +48,11 @@ let dados = [
         titulo: "Sol",
         descricao: "O Sol é uma estrela de sequência principal, tipo G2V, e é o centro do Sistema Solar. Ele é uma esfera quase perfeita de plasma quente, com um campo magnético interior em constante mudança e irradia energia principalmente na forma de luz visível, raios ultravioleta e radiação infravermelha.",
         link: "https://pt.wikipedia.org/wiki/Sol"
+    }, 
+    {
+    titulo: "Lua",
+    descricao: "A Lua é o único satélite natural da Terra e o quinto maior satélite natural do Sistema Solar. É responsável pelas marés e tem um papel importante na estabilização do eixo de rotação da Terra.",
+    link: "https://pt.wikipedia.org/wiki/Lua"
     }
 ];
 
